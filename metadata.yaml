@@ -1,11 +1,14 @@
 _repo: Cousin-Betty_1749
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: La cousine Bette. English
 contributor:
   translator:
     agent_name: Waring, James
     gutenberg_agent_id: '7076'
     url: http://www.gutenberg.org/2009/agents/7076
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Balzac, Honoré de
@@ -55,6 +58,8 @@ description: "La Cousine Bette (French pronunciation: ​[la kuzin bɛt], Cousin
   \ including a 1971 BBC mini-series starring Margaret Tyzack and Helen Mirren, and\
   \ a 1998 feature film with Jessica Lange in the title role.\n From Wikipedia (CC\
   \ BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1749#Cousin-Betty
 gutenberg_issued: '1999-05-01'
 gutenberg_type: Text
 identifiers:
